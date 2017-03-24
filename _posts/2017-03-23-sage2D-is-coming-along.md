@@ -4,7 +4,7 @@ title: "Sage2D Is Coming Along"
 date: 2017-03-23
 excerpt: "Sage2D Is Coming Along"
 tags: [sage2d]
-comments: true
+comments: false
 ---
 
 ### Website is live(kinda)!
